@@ -7,7 +7,7 @@ To use this code, follow these steps:
 
 Clone the repository to your local machine using the following command:
 bash
-git clone https://github.com/anushka-2208/heart-attack-prediction.git
+git clone [https://github.com/anushka-2208/heart-attack-prediction](https://github.com/anushka-2208/Heart-Attack-Prediction-Using-Different-ML-Models).git
 
 Navigate to the project directory:
 cd heart-attack-prediction
